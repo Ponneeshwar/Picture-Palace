@@ -1,0 +1,4 @@
+
+movie-info-service/src/main/java/country/code/movieinfoservice/config/Dbconfig.java
+ratings-data-service/src/main/java/country/code/ratingsdataservice/config/Dbconfig.java
+movie-info-service/src/main/java/country/code/movieinfoservice/config/Dbconfig.java
