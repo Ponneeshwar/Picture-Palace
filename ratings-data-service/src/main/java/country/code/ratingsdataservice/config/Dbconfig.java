@@ -18,7 +18,7 @@ public class Dbconfig {
 		source.driverClassName("com.mysql.cj.jdbc.Driver");
 		source.url("jdbc:mysql://localhost/pictureparadise");
 		source.username("root");
-		source.password("xxxx");
+		source.password("admin@123");
 		return source.build();
 	}
 	

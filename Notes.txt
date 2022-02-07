@@ -1,0 +1,4 @@
+
+movieCatalog- http://localhost:8081/catalog/{userId}
+RatingsInfo- http://localhost:8082/catalog/ratings?userId=govalu
+MoviesInfo- http://localhost:8083/catalog/movieInfo?movieIds=
